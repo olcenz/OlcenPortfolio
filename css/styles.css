@@ -14,7 +14,7 @@ body {
 
 .navbar {
   background: #1d615e;
-  height: 8vh;
+  height: 65px;
   width: 100%;
   display: flex;
   justify-content: space-between;
@@ -313,7 +313,7 @@ body {
     display: block;
     text-align: center;
     line-height: 3rem;
-    transform: translateY(-25rem);
+    transform: translateY(-40rem);
     transition: ease-in-out 1s;
   }
   .navbar .links a {
