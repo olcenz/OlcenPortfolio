@@ -431,6 +431,11 @@ body{
     padding: 1rem 5px;
     .skill{
         grid-template-columns: 1fr 1fr;
+        div{
+            h1{
+                font-size: 40px;
+            }
+        }
     }
 }
 

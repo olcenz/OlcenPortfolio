@@ -410,6 +410,9 @@ body {
   .skills .skill {
     grid-template-columns: 1fr 1fr;
   }
+  .skills .skill div h1 {
+    font-size: 40px;
+  }
   .works {
     padding: 1rem 5px;
   }
